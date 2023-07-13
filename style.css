@@ -1,0 +1,103 @@
+/* This is header */
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    height: 5rem;
+    justify-content: center;
+}
+.main-menu ul li{
+    display: inline;
+    margin: 100px;
+}
+body{font-family: 'Montserrat', sans-serif;
+    align-items: center;
+    background-color: rgb(245, 250, 249);
+    color: black;
+    margin: 0%;
+}
+    /* This is profile  */
+
+.profile{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    font-size: larger;
+    
+}
+.one{
+    width: 150px;
+    color: rgb(255, 230, 1);
+    text-decoration: solid;
+    
+}
+/* This is picture section  */
+.img-my{
+    width: 300px;
+    padding-top: 400px;
+    align-items: center;
+    margin-right: 50px;
+    padding-bottom: 150px;
+
+}
+.parent{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+
+}
+/* This is About me section */
+.mid-bottom{
+    align-items: center;
+    height: 150%;
+    padding-top: 300px;
+    text-align: center;
+    margin: 0%;
+    padding-bottom: 150px;
+
+    background-color: rgb(44, 209, 182)
+}
+
+.img-my-2{
+    width: 400px;
+    border-radius: 40%;
+    }
+.text-about{
+    padding: 50px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: larger;
+        
+}
+
+
+/* contact section  */
+.contact-heading{
+     font-size: 55px;
+     text-align: center;
+     padding-top: 15rem;
+
+}
+form{
+    margin-left: 46rem;
+    margin-bottom: 15rem;
+
+} 
+form input{
+    width: 450px;
+}
+form textarea{
+    width: 450px;
+}
+.submit-button{
+    width: 200px;
+    height: 1px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    padding-bottom: 55px;
+    font-size: larger;
+
+}
